@@ -1,0 +1,16 @@
+ body{
+background-color: pink;
+width: 720px;
+margin: auto;
+}
+h1{
+text-align:center;
+}
+label{
+	width:100;
+	display: inline-block;
+	margin: 12px 4px;
+}
+button{
+	margin: 12px 0px;
+}
